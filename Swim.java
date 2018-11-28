@@ -1,3 +1,4 @@
+
 public interface Swim {
 
     void dive();
